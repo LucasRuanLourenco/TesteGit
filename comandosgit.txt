@@ -12,3 +12,12 @@ Associar git local a um repositório remoto
 
 Verificar qual é o repositório remoto
 > git remove -v
+
+Adicionar arquivo para ser versionado
+> git add seuarquivo
+
+Fazer commit
+> git commit -m "Mensagem explicando a alteração"
+
+Fazer push
+> git push -u origin main
